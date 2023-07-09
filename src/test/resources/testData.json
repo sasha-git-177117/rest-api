@@ -1,0 +1,6 @@
+{
+  "validPostId": 99,
+  "invalidPostId": 150,
+  "validUserId": 5,
+  "validUserIdForValidPost": 10
+}
